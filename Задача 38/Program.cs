@@ -33,7 +33,9 @@ double Min(double[]array)
 }
 
 Console.Clear();
-double[] array = new double[5];
+Console.Write("Введите кол-во элементов в массиве: ");
+int n = int.Parse(Console.ReadLine()!);
+double[] array = new double[n];
 Massiv(array);
 System.Console.WriteLine($"array: [{string.Join(" , " , array)}]");
 double s = Math.Sqrt(Math.Pow(Max(array) - Min(array), 2));

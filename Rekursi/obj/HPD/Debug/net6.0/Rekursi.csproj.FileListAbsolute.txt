@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\bin\HPD\Debug\net6.0\Rekursi.exe
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\bin\HPD\Debug\net6.0\Rekursi.deps.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\bin\HPD\Debug\net6.0\Rekursi.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\bin\HPD\Debug\net6.0\Rekursi.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\bin\HPD\Debug\net6.0\Rekursi.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\refint\Rekursi.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\Rekursi.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Rekursi\obj\HPD\Debug\net6.0\ref\Rekursi.dll

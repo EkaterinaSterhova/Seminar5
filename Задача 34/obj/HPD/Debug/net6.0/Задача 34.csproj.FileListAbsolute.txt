@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\bin\HPD\Debug\net6.0\Задача 34.exe
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\bin\HPD\Debug\net6.0\Задача 34.deps.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\bin\HPD\Debug\net6.0\Задача 34.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\bin\HPD\Debug\net6.0\Задача 34.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\bin\HPD\Debug\net6.0\Задача 34.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\refint\Задача 34.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\Задача 34.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар5\Sem5\Домашнее задание\Задача 34\obj\HPD\Debug\net6.0\ref\Задача 34.dll
